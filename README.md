@@ -2,7 +2,7 @@
 
 👋 Thanks for stopping by! I'm Zack, a current Masters student in Analytics at McGill University.
 <br>
-💡 I enjoy exploring the ways we can make use of big data to learn new insights that drive business decisions. 
+🧐 I enjoy exploring how we can make use of big data to derive insights that inspire business decisions. 
 <br>
 💻 Well-versed in Python, R, SQL and Java; I've been in tech pretty much my whole life!
 <br>
