@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile! 😄
 
-👋 Thanks for stopping by! I'm Zack, a current Masters student in Analytics at McGill University.
+👋 Thanks for stopping by! I'm Zack, an Analytics postgraduate from McGill University.
 <br>
 🧐 I enjoy exploring how we can make use of big data to derive insights that inspire business decisions. 
 <br>
